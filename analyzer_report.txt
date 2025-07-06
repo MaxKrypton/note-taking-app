@@ -1,0 +1,11 @@
+Analyzing note_taking_app...                                    
+
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:24:33 • always_put_control_body_on_new_line
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:41:33 • always_put_control_body_on_new_line
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:42:30 • always_put_control_body_on_new_line
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:62:33 • always_put_control_body_on_new_line
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:63:30 • always_put_control_body_on_new_line
+   info • Statement should be on a separate line • lib/data/repositories/notes_repository.dart:77:33 • always_put_control_body_on_new_line
+warning • Unused import: 'package:flutter_bloc/flutter_bloc.dart' • lib/presentation/widgets/note_card.dart:2:8 • unused_import
+warning • Unused import: '../bloc/notes/notes_bloc.dart' • lib/presentation/widgets/note_card.dart:5:8 • unused_import
+
